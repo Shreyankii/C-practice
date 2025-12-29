@@ -1,5 +1,24 @@
 #include <iostream>
 using namespace std;
+
+
+
+
+
+
+
+
+
+
+// template <typename t , typename u>
+
+// auto xxx(t num1 , u num2){
+
+//     return (num1>num2) ? num1 : num2;
+// }
+
+
+//void walk (int steps);
 // namespace first{
 
 //     int x = 1;
@@ -133,6 +152,44 @@ int main()
 
 
 
+//int x = 19;
+
+
+//x>18 ? cout<<"pass" : cout<<"fail";
+
+
+//generate random numbers;
+// srand(time(0));
+
+// int r = (rand()%6)+1;
+
+// cout<< r;
+
+
+// calling walk function
+//walk(30);
+
+
+
+
+// functional template useing
+
+//cout<<xxx(2,3.1);
+
+
+
 
 
 }
+//fuction 
+
+// void walk (int steps){
+
+//     if(steps > 0){
+
+//         cout<<"you are walking"<<'\n';
+
+
+//         walk(steps - 1);
+//     }
+//}
